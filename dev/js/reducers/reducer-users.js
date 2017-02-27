@@ -7,27 +7,27 @@ export default function () {
     return [
         {
             id: 1,
-            first: "Bucky",
-            last: "Roberts",
-            age: 71,
-            description: "Bucky is a React developer and YouTuber",
-            thumbnail: "http://i.imgur.com/7yUvePI.jpg"
+            first: "Florian",
+            last: "Migot",
+            age: 25,
+            description: "I'm a developer",
+            thumbnail: "https://s-media-cache-ak0.pinimg.com/736x/6c/59/2f/6c592f5c5fcc48fa3564490d8e55ddf2.jpg"
         },
         {
             id: 2,
-            first: "Joby",
-            last: "Wasilenko",
-            age: 27,
+            first: "Jack",
+            last: "White",
+            age: 56,
             description: "Joby loves the Packers, cheese, and turtles.",
-            thumbnail: "http://i.imgur.com/52xRlm8.png"
+            thumbnail: "http://nordpresse.be/wp-content/uploads/2017/01/chicken___12_by_aivisv-d8wnl5d.jpg"
         },
         {
             id: 3,
-            first: "Madison",
-            last: "Williams",
-            age: 24,
+            first: "Joe",
+            last: "Carl",
+            age: 47,
             description: "Madi likes her dog but it is really annoying.",
-            thumbnail: "http://i.imgur.com/4EMtxHB.png"
+            thumbnail: "https://upload.wikimedia.org/wikipedia/commons/f/fc/Alectura_lathami_-_Centenary_Lakes.jpg"
         }
     ]
 }
